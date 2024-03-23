@@ -1,16 +1,15 @@
-### Hi there 👋
+# Bienvenue sur mon profil GitHub !
 
-<!--
-**Tuahalf/Tuahalf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## À propos de moi
+Je suis un étudiant passionné d'informatique, toujours avide d'apprendre et de relever de nouveaux défis. Actuellement en deuxième année de BTS SIO, je suis particulièrement intéressé par le développement web et les technologies émergentes.
 
-Here are some ideas to get you started:
+## Compétences
+- **Langages de programmation** : Java, Python, JavaScript, HTML/CSS, C#, PHP, Angular, Flutter
+- **Frameworks et bibliothèques** : Laravel
+- **Bases de données** : MySQL, MongoDB
+- **Outils de développement** : Git, Docker, IntelliJ IDEA, Visual Studio Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Comment me contacter
+- **E-mail** : [flahaut.aur@gmail.com](mailto:flahaut.aur@gmail.com)
+- **LinkedIn** : [https://www.linkedin.com/in/aur%C3%A9lien-flahaut-8ab750264/](https://www.linkedin.com/in/aur%C3%A9lien-flahaut-8ab750264/)
+- **Portfolio en ligne** : [https://tuahalf.github.io/portfolio/](https://tuahalf.github.io/portfolio/)
