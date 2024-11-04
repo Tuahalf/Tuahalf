@@ -1,7 +1,9 @@
 # Bienvenue sur mon profil GitHub !
 
 ## À propos de moi
-Je suis un étudiant passionné d'informatique, toujours avide d'apprendre et de relever de nouveaux défis. Actuellement en deuxième année de BTS SIO, je suis particulièrement intéressé par le développement web et les technologies émergentes.
+Je suis un étudiant passionné d'informatique, toujours avide d'apprendre et de relever de nouveaux défis. 
+Actuellement à ENI Ecole informatique en développement. J'ai effectué un BTS SIO avant pour commencer dans le monde du développement.
+Je suis particulièrement intéressé par le développement web et les technologies émergentes.
 
 ## Compétences
 - **Langages de programmation** : Java, Python, JavaScript, HTML/CSS, C#, PHP, Angular, Flutter
